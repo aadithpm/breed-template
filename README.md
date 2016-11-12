@@ -1,5 +1,5 @@
 # breed-template
-A flat and modern theme template made in HTML and CSS.
+A flat and modern theme template made in HTML and CSS, with the <a href="http://getbootstrap.com/">Bootstrap</a> framework.
 
 Feel free to fork and use the template for any purpose.
 
