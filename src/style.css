@@ -107,7 +107,8 @@ body {
   color: #ECEFF1; }
   .block-saying h3, .block-saying p {
     text-align: center;
-    font-family: "Vollkorn", helvetica; }
+    font-family: "Vollkorn", helvetica;
+    font-size: 1.9rem; }
   .block-saying .fa-quote-right {
     float: right; }
   .block-saying p {
