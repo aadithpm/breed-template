@@ -33,7 +33,7 @@ body {
 
 .footer-sticky {
   position: fixed;
-  bottom: 10;
+  bottom: 0;
   margin-top: 20px;
   padding-bottom: 25px;
   padding-left: 25px;
@@ -47,8 +47,8 @@ body {
     .footer-sticky ul li {
       float: left;
       display: inline-block;
-      margin-left: 50px;
-      margin-top: 10px; }
+      margin-left: 30px;
+      margin-top: 30px; }
       .footer-sticky ul li a {
         color: #ECEFF1; }
       .footer-sticky ul li a:hover {
