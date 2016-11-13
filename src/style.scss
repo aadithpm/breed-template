@@ -47,16 +47,18 @@ body
 {
 	
 	background-color:$primary-color;
-	img
+	.col-md-6{
+		img
 	{
-		width:50%;
-		height:50%;
-		margin-left:25%;
-		transform:rotate(90deg);
+		width:80%;
+		height:auto;
+		margin-left:10%;
+		//transform:rotate(90deg);
 		/*border:3px solid rgba($secondary-color,0.5);*/
 		background:rgba(black,0.03);
 		padding:70px;
 	}
+}
 	img + p
 	{
 		color:$primary-color-text;
